@@ -1,0 +1,553 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"broder",
+				"border-radius\tproperty"
+			],
+			[
+				"text-",
+				"text-indent\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"text",
+				"text-white"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/Projek WebSite/DumetPHP/php/dumet_blog/webdes/dumet.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Projek WebSite/bryan/Hope/hope.html",
+			"settings":
+			{
+				"buffer_size": 4112,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Projek WebSite/Card UI/main.html",
+			"settings":
+			{
+				"buffer_size": 1476,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Projek WebSite/bryan/Latihan HTML/tugas akhir html/about.html",
+			"settings":
+			{
+				"buffer_size": 11804,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Projek WebSite/bryan/graphyc/graphyx.html",
+			"settings":
+			{
+				"buffer_size": 7303,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Home.html",
+			"settings":
+			{
+				"buffer_size": 7340,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "    <!doctype html>\n<html>\n<head>\n<meta charset=\"utf-8\">\n<title>Game Forest</title>\n<link href=\"style/style.css\" rel=\"stylesheet\" type=\"text/css\">\n<link href=\"images/gggg.ico\" rel=\"shortcut icon\">\n</head>\n\n<body>\n<div class=\"container\">\n\t<header>\n    \t<img src=\"images/logo.png\">\n    </header> <!--end of header-->\n    \n    <menu>\n    \t<ul>\n        \t<li><a href=\"\"> Home </a></li>\n            <li><a href=\"\"> Portofolio </a> </li>\n            <li><a href=\"\"> Service </a></li>\n            <li><a href=\"\"> Gallery </a></li>\n            <li><a href=\"\"> Contact Us </a></li>\n        </ul>\n    </menu> <!--end of menu-->\n    \n    <article>\n    \t<div class=\"left\">\n        \t<h1> About Us</h1>\n            \t<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\n            <h1> Chat With Us </h1>\n            \n        </div>\n        \n        <div class=\"right\">\n        \t<div class=\"top\">\n            \t<h1> Our Product </h1>\n                \t<img src=images/picture1.jpg>\n                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>         \n            </div>  \n            <div class=\"bottom\">\n            \t<div class=\"bottomleft\">\n                \t<h1> Contact us </h1>\n                    <p> asdqiuwvfdiquwhgdqowdhaoudawiufv </p>\n                </div>\n                \n                <div class=\"bottomright\">\n                \t<h1> Social Media </h1>\n                    \t<img src=\"images/icon1.png\">\n                        <img src=\"images/icon2.png\">\n                        <img src=\"images/icon3.png\">\n                </div>\n            </div>\n        </div>\n        \n    </article>\n    \n    <footer>\n    \t Copyright &copy: 2015 | <a href=\"http://www.blabla.com\" target=\"_blank\" > bla bla </a>\n    </footer>\n    \n</body>\n</html>\n",
+			"file": "/E/Projek WebSite/bryan/Latihan HTML/game'/game forest'.html",
+			"file_size": 2862,
+			"file_write_time": 131412123440000000,
+			"settings":
+			{
+				"buffer_size": 2804,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Projek WebSite/bryan/Latihan HTML/BAB 7 - Form & Table/facebook.html",
+			"settings":
+			{
+				"buffer_size": 5163,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Projek WebSite/DumetPHP/php/web_dinamis/contact.html",
+			"settings":
+			{
+				"buffer_size": 1707,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Projek WebSite/DumetPHP/php/web_dinamis/index.html",
+		"/E/Projek WebSite/DumetPHP/php/web_dinamis/about.html",
+		"/E/Projek WebSite/OnlineShop/style.css",
+		"/E/Projek WebSite/Subicake/subicake.css",
+		"/E/Projek WebSite/OnlineShop/JS/index.html",
+		"/E/Projek WebSite/Subicake/Home.html",
+		"/E/Projek WebSite/OnlineShop/JS/main.js",
+		"/E/Projek WebSite/Card UI/style.css",
+		"/E/Projek WebSite/Card UI/main.html",
+		"/E/Projek WebSite/Subicake/Menu.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/Projek WebSite/DumetPHP/php/dumet_blog/webdes/dumet.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/Projek WebSite/bryan/Hope/hope.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1687,
+								1726
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 342.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/Projek WebSite/Card UI/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								228,
+								1459
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/Projek WebSite/bryan/Latihan HTML/tugas akhir html/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3705.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/E/Projek WebSite/bryan/graphyc/graphyx.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6992,
+								7002
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2850.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								641,
+								702
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/E/Projek WebSite/bryan/Latihan HTML/game'/game forest'.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/E/Projek WebSite/bryan/Latihan HTML/BAB 7 - Form & Table/facebook.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1254.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/E/Projek WebSite/DumetPHP/php/web_dinamis/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Menu.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
